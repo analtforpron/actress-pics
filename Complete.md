@@ -100,6 +100,7 @@
 * Dollie Darko
 * Draven Star
 * Dyanna Lauren
+* Edyn Blair
 * Eliza Jane
 * Eliza Ibarra 4
 * Ella Hughes 2
