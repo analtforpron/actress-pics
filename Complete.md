@@ -108,6 +108,7 @@
 * Ella Hughes 2
 * Ellie Eilish
 * Elsa Jean 2
+* Emily Addison
 * Emily Willis 4
 * Eva Angelina 2
 * Eva Lovia 4
