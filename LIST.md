@@ -473,6 +473,7 @@ Frida Stark
 ### G
 Gabbie Carter
 Gabby Quinteros
+Gabriella Fox
 Gabriella Paltrova
 Genevieve Sinn
 Georgia Jones
