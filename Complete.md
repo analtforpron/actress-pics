@@ -116,6 +116,7 @@
 * Eve Laurence 2
 * Evelyn Claire
 * Gabriella Fox
+* Gabriella Paltrova
 * Georgie Lyall 3
 * Gianna Dior 5
 * Gigi Allens
