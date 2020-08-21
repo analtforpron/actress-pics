@@ -125,6 +125,7 @@
 * Gina Valentina 5
 * Giselle Palmer
 * Gracie Glam 2
+* Haley Reed 3
 * Holly Michaels 2
 * Inga Devil
 * Ivy Lebelle
