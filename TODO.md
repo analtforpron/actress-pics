@@ -1,5 +1,8 @@
 ### Merge
 
+### Actress pics to add to
+* Anna Polina - back shots, maybe more
+
 
 ### Actress pics to replace
 * Ashley-Adams_X_3Q_Front_NN_1

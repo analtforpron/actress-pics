@@ -118,7 +118,7 @@
 * Gabriella Fox
 * Gabriella Paltrova
 * Georgie Lyall 3
-* Gia Derza
+* Gia Derza 2
 * Gianna Dior 5
 * Gigi Allens
 * Gina Gerson 2
