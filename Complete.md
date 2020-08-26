@@ -134,6 +134,7 @@
 * Hillary Scott 2
 * Holly Michaels 2
 * Inga Devil
+* Isis Love
 * Ivy Lebelle
 * Ivy Wolfe 2
 * Janice Griffith 6
