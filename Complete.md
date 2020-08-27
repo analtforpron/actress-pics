@@ -149,7 +149,7 @@
 * Jessie Andrews
 * Jessie Rogers
 * Jill Kassidy 3
-* Jillian Janson 3
+* Jillian Janson 6
 * Joanna Angel
 * Joesline Kelly 4
 * Julia Bond
