@@ -152,6 +152,7 @@
 * Jillian Janson 6
 * Joanna Angel
 * Joesline Kelly 4
+* Judy Jolie 2
 * Julia Bond
 * Jynx Maze 2
 * Kali Roses 6
