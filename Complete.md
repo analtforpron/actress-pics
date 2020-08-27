@@ -148,7 +148,7 @@
 * Jessica Rex
 * Jessie Andrews
 * Jessie Rogers
-* Jill Kassidy 3
+* Jill Kassidy 6
 * Jillian Janson 6
 * Joanna Angel
 * Joesline Kelly 4
