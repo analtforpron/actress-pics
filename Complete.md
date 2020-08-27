@@ -138,6 +138,7 @@
 * Ivy Lebelle
 * Ivy Wolfe 2
 * Janice Griffith 6
+* Jay Taylor
 * Jenna Sativa
 * Jennifer Jacobs
 * Jessa Rhodes 5
