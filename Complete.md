@@ -145,6 +145,7 @@
 * Jennifer Jacobs
 * Jessa Rhodes 5
 * Jesse Jane 2
+* Jessica Rex
 * Jessie Andrews
 * Jessie Rogers
 * Jill Kassidy 3
