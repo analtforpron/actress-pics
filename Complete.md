@@ -135,6 +135,7 @@
 * Hillary Scott 2
 * Holly Michaels 2
 * Inga Devil
+* Isabelle Deltore
 * Isis Love
 * Ivy Lebelle
 * Ivy Wolfe 2
