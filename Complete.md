@@ -139,6 +139,7 @@
 * Isis Love
 * Ivy Lebelle
 * Ivy Wolfe 2
+* Jada Stevens 6
 * Janice Griffith 6
 * Jay Taylor
 * Jayden Cole 2
