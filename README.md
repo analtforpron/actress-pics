@@ -24,7 +24,9 @@ Pose is either Front, Side, Back, or sitting.
 State is either NN (non-nude), Topless or Nude.
 Number is only added when need to further differentiate.
 
-[More info on structure and naming here.](./SCHEMA.md)
+[More info on structure, naming, as well as examples here.](./SCHEMA.md)
+
+Please join the Discord server linked below and submit examples over there, rather than submitting a PR.
 
 ### Contributors
 * _Kenny40
