@@ -63,19 +63,19 @@ Numbering should include the first file (e.g. `...NN_1`, `...NN_2`) or start at 
 
 ### 3Q
 
-[Front](../blob/master/images/A/Ariana%20Marie/Ariana-Marie_3_3Q_Front_NN.jpg)
-[Back](../blob/master/images/V/Valentina%20Nappi/Valentina-Nappi_2_3Q_Back_NN.jpg)
-[Side](../blob/master/images/J/Jill%20Kassidy/Jill-Kassidy_1_3Q_Side_NN.jpg)
+[Front](../master/images/A/Ariana%20Marie/Ariana-Marie_3_3Q_Front_NN.jpg)
+[Back](../master/images/V/Valentina%20Nappi/Valentina-Nappi_2_3Q_Back_NN.jpg)
+[Side](../master/images/J/Jill%20Kassidy/Jill-Kassidy_1_3Q_Side_NN.jpg)
 
 ### Bust
 
-[Front](../blob/master/images/J/Jill%20Kassidy/Jill-Kassidy_1_Bust_Front_NN.jpg)
-[Side](../blob/master/images/L/Lena%20Paul/Lena-Paul_1_Bust_Side_NN.jpg)
+[Front](../master/images/J/Jill%20Kassidy/Jill-Kassidy_1_Bust_Front_NN.jpg)
+[Side](../master/images/L/Lena%20Paul/Lena-Paul_1_Bust_Side_NN.jpg)
 
 ### Torso
 
-[Front](../blob/master/images/Z/Zoey%20Monroe/Zoey-Monroe_2_Torso_Front_NN.jpg)
+[Front](../master/images/Z/Zoey%20Monroe/Zoey-Monroe_2_Torso_Front_NN.jpg)
 
 ### Wide
 
-[Fours](../blob/master/images/Z/Zoey%20Monroe/Zoey-Monroe_3_Wide_Fours_Topless.jpg)
+[Fours](../master/images/Z/Zoey%20Monroe/Zoey-Monroe_3_Wide_Fours_Topless.jpg)
