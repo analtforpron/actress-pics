@@ -19,6 +19,7 @@
 * Alessa Savage
 * Alessandra Jane
 * Alex Blake
+* Alex Coal
 * Alex Harper 2
 * Alexa Grace
 * Alexa Nova
@@ -88,10 +89,11 @@
 * Carter Cruise 4
 * Cassandra Calogera
 * Cassidy Banks
-* Cassie Laine 2
 * Cassidy Klein 7
+* Cassie Laine 2
 * Chanel Preston 8
 * Charley Chase 5
+* Charlotte Stokely 2
 * Chloe Carter 6
 * Chloe Couture 2
 * Christina Shine 3
@@ -104,8 +106,8 @@
 * Dyanna Lauren
 * Edyn Blair
 * Elena Koshka 4
-* Eliza Jane
 * Eliza Ibarra 4
+* Eliza Jane
 * Ella Hughes 2
 * Ellie Eilish
 * Elsa Jean 2

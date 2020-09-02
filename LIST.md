@@ -44,6 +44,7 @@ Alex Black
 Alex Blake
 Alex Carter
 Alex Chance
+Alex Coal
 Alex De La Flor
 Alex Devine
 Alex Grey
