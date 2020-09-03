@@ -147,6 +147,7 @@
 * Jasmine Webb 2
 * Jay Taylor
 * Jayden Cole 2
+* Jelena Jensen 2
 * Jenna J Foxx
 * Jenna Sativa
 * Jennifer Jacobs
