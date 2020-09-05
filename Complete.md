@@ -129,6 +129,7 @@
 * Giselle Palmer
 * Gracie Glam 2
 * Haley Reed 3
+* Haley Wilde
 * Halie James
 * Harley Jade 3
 * Harlow Harrison 3
