@@ -26,6 +26,7 @@
 * Alexis Fawx 6
 * Alexis Texas 4
 * Alina Lopez 5
+* Alison Rey 4
 * Allie Haze
 * Alyssa Reece
 * Alyssia Kent
