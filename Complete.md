@@ -133,6 +133,7 @@
 * Haley Reed 3
 * Haley Wilde
 * Halie James
+* Halle Hayes
 * Harley Jade 3
 * Harlow Harrison 3
 * Hayden Winters 2
