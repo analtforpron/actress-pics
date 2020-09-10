@@ -190,6 +190,7 @@
 * Kira Noir
 * Kit Mercer
 * Kleio Valentien 2
+* Koko Amaris
 * Kristen Scott 3
 * Lana Rhoades 4
 * Lela Star 8
