@@ -192,6 +192,7 @@
 * Kleio Valentien 2
 * Koko Amaris
 * Kristen Scott 3
+* Kristina Rose
 * Lana Rhoades 4
 * Lela Star 8
 * Lena Paul 4
