@@ -229,6 +229,7 @@
 * Natasha Malkova 3
 * Nautica Thorn
 * Nicole Aniston 4
+* Nicolette Shae
 * Olive Glass 3
 * Parker Swayze
 * Piper Perri
