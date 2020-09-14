@@ -235,6 +235,7 @@
 * Nina Hartley 3
 * Nina North 1
 * Olive Glass 3
+* Paris Lincoln 2
 * Parker Swayze
 * Piper Perri
 * Rachael Madori
