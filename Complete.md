@@ -236,7 +236,7 @@
 * Nina North 1
 * Olive Glass 3
 * Paris Lincoln 2
-* Parker Swayze
+* Parker Swayze 3
 * Piper Perri
 * Rachael Madori
 * Rachel Starr 3
