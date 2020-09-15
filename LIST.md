@@ -1209,10 +1209,12 @@ Tasha Reign
 Tatiana Kush
 Taylor May
 Taylor Sands
+Taylor Vixen
 Taylor Wane
 Taylor Whyte
 Teagan Presley
 Teanna Trump
+Tessa Taylor
 Texas Patti
 Tia Cyrus
 Tiffany Brookes
@@ -1222,6 +1224,7 @@ Tiffany Tyler
 Tiffany Watson
 Timea Bela
 Tina Kay
+Tori Avano
 Tori Black
 Tory Lane
 Tracy Loves
