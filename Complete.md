@@ -246,6 +246,7 @@
 * Raven Hart
 * Riley Reid
 * Riley Steele
+* Rina Ellis 3
 * Sabina Rouge 3
 * Samantha Rone 4
 * Samantha Saint 3
