@@ -1072,6 +1072,7 @@ Riley Star
 Riley Steele
 Rilynn Rae
 Rina Ellis
+Rizzo Ford
 Rocky Emerson
 Romi Rain
 Rosalyn Sphinx
@@ -1089,6 +1090,7 @@ Sadie Blake
 Sadie Holmes
 Sadie Santana
 Sadie Swede
+Sadie West
 Sailor Luna
 Samantha Bentley
 Samantha Hayes
@@ -1099,6 +1101,7 @@ Samantha Saint
 Sami White
 Sammie Daniels
 Sammie Rhodes
+Sammie Six
 Sara Luvv
 Sarah Cute
 Sarah Jessie
@@ -1120,6 +1123,7 @@ Savannah Stevens
 Saya Song
 Scarlet Red
 Scarlet Sade
+Scarlett Bloom
 Scarlett Pain
 Scarlett Sage
 Sea J Raw
@@ -1139,7 +1143,7 @@ Shay Evans
 Shay Fox
 Shay Jordan
 Shay Laren
-Shay Sight
+Shay Sights
 Shazia Sahari
 Sheena Rose
 Sheena Ryder
@@ -1158,6 +1162,7 @@ Siri
 Sizi Sev
 Skin Diamond
 Sky Pierce
+Skye Blue
 Skye West
 Skyla Novea
 Skylar Green
@@ -1180,10 +1185,12 @@ Stella Flex
 Stella Raee
 Stephie Staar
 Stevie Shae
+Stormy Daniels
 Stoya
 Summer Brielle
 Summer Day
 Sunny Lane
+Susy Gala
 Sweet Cat
 Sybil
 Sydney Cole
